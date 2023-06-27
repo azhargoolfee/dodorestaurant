@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dodorestaurant/static/css/main.2a6eb859.css",
+    "main.js": "/dodorestaurant/static/js/main.4a13b949.js",
+    "index.html": "/dodorestaurant/index.html",
+    "main.2a6eb859.css.map": "/dodorestaurant/static/css/main.2a6eb859.css.map",
+    "main.4a13b949.js.map": "/dodorestaurant/static/js/main.4a13b949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6eb859.css",
+    "static/js/main.4a13b949.js"
+  ]
+}
