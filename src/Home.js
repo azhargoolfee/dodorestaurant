@@ -1,7 +1,7 @@
 import Review from "./Review";
 import useFetch from "./useFetch";
 const Home = () => {
-    const {data : reviews} = useFetch('https://segdata.onrender.com/reviews')
+    const {data : reviews} = useFetch('http://localhost:8000/reviews')
 
 
    
