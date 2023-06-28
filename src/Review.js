@@ -7,7 +7,7 @@ const Review = ({ reviews}) => {
             {reviews.map((review) => (
                 <div className="review-preview" key={review.id}>
                     <Link to={`/review/${review.id}`}> <h2>{review.title}</h2>
-                    <p>Written by {review.author}</p></Link>
+                    <p>Written by {review.name}</p></Link>
                    
                     
                 </div>
